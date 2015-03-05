@@ -1,0 +1,31 @@
+{
+  "name": "a-cli-command",
+  "version": "0.0.0",
+  "main": "lib/main",
+  "dependencies": {
+    "mixto": "",
+    "a-event-emitter": "",
+    "a-event-has-listener-fn": ""
+  },
+  "devDependencies": {
+    "kosher": "",
+    "a-cli-domain": ""
+  },
+  "scripts": {
+    "test": "mocha --reporter spec --compilers coffee:coffee-script/register ./spec"
+  },
+  "description": "A Cli Command",
+  "keywords": [
+    "a",
+    "cli",
+    "command"
+  ],
+  "homepage": "https://github.com/joaoafrmartins/a-cli-command",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoafrmartins/a-cli-command.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaoafrmartins/a-cli-command/issues"
+  }
+}
