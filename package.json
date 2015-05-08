@@ -27,5 +27,7 @@
   },
   "bugs": {
     "url": "https://github.com/joaoafrmartins/a-cli-command/issues"
-  }
+  },
+  "author": "João Afonso Martins",
+  "license": "MIT"
 }
